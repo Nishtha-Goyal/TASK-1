@@ -180,11 +180,13 @@ function decreaseItem(nam)
 
 function openNav() {
     document.getElementById("mySidenav").style.width = "24%";
+    document.getElementById("mySidenav").style.minWidth = "250px";
     document.getElementById("main").style.marginLeft = "24%";
   }
   
   function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
+      document.getElementById("mySidenav").style.minWidth = "0px";
     document.getElementById("main").style.marginLeft= "0";
   }
 
