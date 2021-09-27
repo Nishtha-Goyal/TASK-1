@@ -83,13 +83,13 @@ function showCart(){
     let cart=` <section class="topmost">
     <header>
         <div class="e-shop">
-          <a href="EXTRA.html"><h1 style="color:dodgerblue;" >E-SHOP</h1></a> 
+          <a href="index.html"><h1 style="color:dodgerblue;" >E-SHOP</h1></a> 
         </div>
        <div>
            <nav>
                <ul>
-                  <li><a href="EXTRA.html#men-heading">MEN</a></li>
-                  <li><a href="EXTRA.html">WOMEN</a></li>
+                  <li><a href="index.html">MEN</a></li>
+                  <li><a href="index.html">WOMEN</a></li>
                 <li><a href="#">CONTACT</a></li>
                </ul>
            </nav>
